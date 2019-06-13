@@ -1,4 +1,7 @@
 # my-first-rodeo
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/20d9db4e3cfa4f3a899d06ff49a72b12)](https://app.codacy.com/app/agjkyle82/my-first-rodeo?utm_source=github.com&utm_medium=referral&utm_content=agjkyle/my-first-rodeo&utm_campaign=Badge_Grade_Dashboard)
+
 starting out with coding 
 
 Hello Cyberworld!
